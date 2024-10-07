@@ -15,7 +15,7 @@ ORDER BY
     avg_delivery_days DESC;
 
 
---- Business Problem 3: Customer and Seller Geographical Analysis (Analyze sales distribution geographically by matching customers with sellers in the same state)
+--- Business Problem 2: Customer and Seller Geographical Analysis (Analyze sales distribution geographically by matching customers with sellers in the same state)
 
 SELECT DISTINCT
     seller_state,
